@@ -14,5 +14,5 @@ This repository contains my C++ solutions for the HackerRank 30 Days of Code cha
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/adinathmahangare/Hackerrank-30-days-of-Code.git](https://github.com/adinathmahangare/Hackerrank-30-days-of-code.git)
+git clone https://github.com/adinathmahangare/Hackerrank-30-days-of-code.git
 
